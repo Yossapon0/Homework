@@ -17,5 +17,5 @@ int main()
 	cout << "" << endl;
 	cout << "" << endl;
 	cout << "KMUTNB" << endl;
-	return(0)
+	return(0);
 }
