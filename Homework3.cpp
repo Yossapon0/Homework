@@ -43,5 +43,5 @@ void cal_Total(float mid_term, float final, float first, float second, float thi
 
 void cal_end(float mid_term, float final, float first, float second, float third)
 {
-	cout << "Your score is : " << ((mid_term + final + ( first + second + third ) / 3) >=50 ? "PASS " : "FALL ") << endl;
+	cout << "Your score is : " << ((mid_term + final + ( first + second + third ) / 3) >=60 ? "PASS " : "FALL ") << endl;
 }
